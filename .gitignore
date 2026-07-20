@@ -1,0 +1,10 @@
+# Thư mục build và biên dịch ROS 2
+build/
+install/
+log/
+
+# File cấu hình IDE và hệ điều hành
+.vscode/
+.catkin_tools/
+*~
+.DS_Store
