@@ -2,7 +2,9 @@
 build/
 install/
 log/
-
+*.gv
+*.pdf
+packets.txt
 # File cấu hình IDE và hệ điều hành
 .vscode/
 .catkin_tools/
